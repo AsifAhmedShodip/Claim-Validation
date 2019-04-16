@@ -1,5 +1,5 @@
 # Claim-Validation
-#### (A partial work of this project has been accepted in International Joint Conference on Computational Intelligence, 2018 under the title "A Hierarchical Learning Model for Claim Validation".)
+### (A partial work of this project has been accepted in International Joint Conference on Computational Intelligence, 2018 under the title "A Hierarchical Learning Model for Claim Validation".)
 
 Due to the proliferation of social media platforms, people increasingly depend
 on these platforms to consume news content. Consequently, propagandists utilize
